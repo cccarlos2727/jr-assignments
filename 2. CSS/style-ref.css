@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    height: 100%;
+  }
+  
+  body {
+    display: flex;
+    justify-content: center; 
+    align-items: center;     
+  }
+
+.container {
+    width: 900px;
+    height: 240px;
+    background-color: whitesmoke;
+    display: flex;
+    border-radius: 20px;
+    font-family: sans-serif;
+}
+
+.left-card {
+    background-color:rgb(255, 255, 255);
+}
+
+.right-card {
+    background: blueviolet;
+    color: white;
+}
+
+.left-card, .right-card {
+    height: 200px;
+    width: 400px;
+    /* border: 1px solid blue; */
+    margin: auto;
+    border-radius: 20px;
+}
+
+.upper-section {
+    display: flex;
+    /* border: 1px solid green; */
+    margin: 10px 10px 20px 10px;
+}
+
+img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.position {
+    font-size: 0.9rem;
+}
+
+.highlight {
+    color: blue;
+    font-weight: bold;
+}
+
+
+.info-right {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 4px 0;
+    margin-left: 4px;
+}
+
+.star {
+    display: flex;
+    margin-left: auto;
+}
+
+.left-star {
+    color: gold;
+}
+
+.bottom-section {
+    padding: 0 12px;
+
+}
+
+.description {
+    font-size: 0.9rem;
+    line-height: 1.5;
+}
+
+.left-card:hover {
+  background-color: #e0e0e0; /* Changes background color when hovered */
+}
+
+.right-card:hover {
+    background-color: rgb(201, 116, 218);
+}

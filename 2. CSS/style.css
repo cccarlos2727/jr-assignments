@@ -1,0 +1,96 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  width: 900px;
+  height: 240px;
+  background-color: whitesmoke;
+  display: flex;
+  border-radius: 20px;
+  font-family: sans-serif;
+  flex-wrap: wrap;
+}
+.container .card {
+  height: 200px;
+  width: 400px;
+  /* border: 1px solid blue; */
+  margin: auto;
+  border-radius: 20px;
+}
+.container .card .upper-section {
+  display: flex;
+  /* border: 1px solid green; */
+  margin: 10px 10px 20px 10px;
+}
+.container .card .upper-section .info-left img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+.container .card .upper-section .info-right {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 4px 0;
+  margin-left: 10px;
+}
+.container .card .upper-section .info-right p.position {
+  font-size: 0.9rem;
+}
+.container .card .upper-section .info-right p.position span.highlight {
+  font-weight: bold;
+}
+.container .card .upper-section .star {
+  display: flex;
+  margin-left: auto;
+  margin-right: 10px;
+}
+.container .card .bottom-section {
+  padding: 0 12px;
+}
+.container .card .bottom-section .description {
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.left-card:hover {
+  background-color: #e0e0e0;
+}
+
+.right-card:hover {
+  background-color: rgb(201, 116, 218);
+}
+
+.left-card {
+  background-color: rgb(255, 255, 255);
+}
+.left-card .left-star {
+  color: gold;
+}
+
+.right-card {
+  background-color: blueviolet;
+  color: white;
+}
+
+.right-card .upper-section .info-right p.position span.highlight {
+  color: white;
+}
+
+.left-card .upper-section .info-right p.position span.highlight {
+  color: blue;
+}/*# sourceMappingURL=style.css.map */

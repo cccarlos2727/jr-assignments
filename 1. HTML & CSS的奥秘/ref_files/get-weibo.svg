@@ -1,0 +1,22 @@
+<svg width="30" height="30" viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="9h604uhgga">
+            <stop stop-color="#FEEFB8" offset="0%"/>
+            <stop stop-color="#FFD440" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.601%" id="jdh6z4m0wb">
+            <stop stop-color="#FE1825" offset="0%"/>
+            <stop stop-color="#CE0107" offset="100%"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <rect fill="url(#9h604uhgga)" fill-rule="nonzero" width="30" height="30" rx="15"/>
+        <path d="M20 5.088c2.047-.325 3.68.247 4.898 1.715 1.219 1.47 1.613 3.368 1.184 5.697" stroke="#FFA71A" stroke-width="1.75" stroke-linecap="round"/>
+        <path d="M13.45 8.874c1.19-.256 2.031-.115 2.521.422.736.805-.068 2.753.192 2.93.175.116.446.08.813-.11 3.308-1.842 6.115-1.007 5.028 2.063-.416.953.048 1.048.715 1.169 2.51.326 2.983 3.368 1.248 5.43-1.962 2.217-4.592 3.553-7.89 4.01-3.586.553-6.53.023-8.834-1.59-2.062-1.573-2.808-3.704-1.793-6.585 1.402-3.088 3.434-6.199 8-7.739z" fill="url(#jdh6z4m0wb)" fill-rule="nonzero"/>
+        <ellipse fill="#FFF" fill-rule="nonzero" transform="rotate(-2 13.59 18.612)" cx="13.589" cy="18.612" rx="7.072" ry="4.83"/>
+        <ellipse fill="#000" fill-rule="nonzero" transform="rotate(-10 13.092 18.9)" cx="13.092" cy="18.9" rx="3.795" ry="3.277"/>
+        <ellipse fill="#FFF" fill-rule="nonzero" transform="rotate(-30 11.968 19.488)" cx="11.968" cy="19.488" rx="1.208" ry="1.071"/>
+        <circle fill="#FFF" fill-rule="nonzero" transform="rotate(-30 13.872 18.35)" cx="13.872" cy="18.35" r="1.071"/>
+        <path d="M21.25 8.75c.86 0 1.512.323 1.956.97.444.65.616 1.576.517 2.78" stroke="#FFA71A" stroke-width="1.75" stroke-linecap="round"/>
+    </g>
+</svg>

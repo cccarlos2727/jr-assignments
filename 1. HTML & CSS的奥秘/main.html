@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+    <form method="get" action="result.html">
+        <div class="container">
+            <h1>Sign Up</h1>
+            <div class="uppersection section">
+                <h3>Your basic info</h3>
+                <label for="firstName">First Name:</label>
+                <input type="text" id="firstName" />
+            
+                <label for="lastName">Last Name:</label>
+                <input type="text" name="lname" id="lastName" />
+            
+                <label for="email">Email:</label>
+                <input type="email" name="email" id="email" />
+            
+                <label for="username">Username:</label>
+                <input type="text" name="username" id="username" />
+            
+                <label for="password">Password:</label>
+                <input type="password" name="pass" id="password" />
+            </div>
+
+            <div class="middlesection section">
+                <h3>Other details</h3>
+                <label for="dob">Date of Birth</label>
+                <input name="dob" type="date" id="dob">
+
+                <p class="gender">Gender</p>
+                <label for="male">
+                    <input id="male" type="radio" value="Male" name="Gender">
+                    Male
+                </label> 
+    
+    
+                <label for="Female">
+                    <input id="female" type="radio" value="Female" name="Gender">
+                    Female
+                </label>
+    
+                <label for="other">
+                    <input id="other" type="radio" value="Other" name="Gender">
+                    Other
+                </label>            
+            <div>
+
+                <label for="profession-select">Choose Your Profession</label>
+                <select name="profession">
+                    <option value="">--Please choose a profession</option>    
+                    <option value="Web Development">Web Development</option>
+                    <option value="Data Analytics">Data Analytics</option>
+                    <option value="UI/UX">UI/UX</option>
+                    <option value="Design">Design</option>
+                </select>
+                </div>
+
+                <textarea name="selfintro" rows="5" cols="30" minlength="10" maxlength="50">Write something.</textarea>
+            </div>
+
+            <div class="bottomsection">
+                <input id="termsCheckbox" type="checkbox" value="terms">
+                <label for="termsCheckbox" id="termsLabel">
+                  I am accepting Terms and Conditions
+                </label>
+
+                <button><strong>Sign Up</strong></button>
+
+            </div>
+            
+        </div>
+        
+        
+
+        
+        
+
+        
+        
+
+
+        
+    </form>
+</body>
+</html>

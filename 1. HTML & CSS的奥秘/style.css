@@ -1,0 +1,79 @@
+.container {
+    width: 500px;
+    background-color: #f5f9fa;
+    margin: 2em auto;
+    padding: 1.5em;
+    border-radius: 10px;
+}
+
+.middlesection {
+    margin-top: 30px;
+}
+
+h1 {
+    margin: 6px;
+    text-align: center;
+}
+
+h3 {
+    margin: 6px 0;
+}
+
+.section h3::before {
+    content: "";
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    background-color: green;
+    border-radius: 50%;
+    margin-right: 8px;
+    vertical-align: middle;
+  }
+
+label {
+    display: block;
+    margin-bottom: 0.25em;
+    
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="date"],
+textarea,
+select {
+  display: block;
+  width: 96%;
+  margin-bottom: 1em;    
+  padding: 0.5em;
+  border-radius: 4px;
+  font-size: 1rem;
+  background-color: #e6eaeb;
+  border: none;  
+}
+
+#termsCheckbox {
+    display: inline;
+}
+
+#termsLabel {
+    display: inline;
+}
+
+button {
+    display: block;
+    height: 3em;
+    border-radius: 4px;
+    width: 100%;
+    background-color: green;
+    color: white;
+    border: none;
+    margin-bottom: 0;
+    margin-top: 8px;
+    font-size: 16px;
+}
+
+.gender {
+  margin: 0;
+  padding: 0;
+}
