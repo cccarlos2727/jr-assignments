@@ -1,0 +1,26 @@
+/* components/LecturerCard.scss */
+.lecturer-card {
+  margin: 1rem;
+  padding: 1rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease;
+
+  &:hover {
+    transform: scale(1.02);
+  }
+
+  .name {
+    font-weight: bold;
+    margin-bottom: 0.2rem;
+  }
+
+  .bio {
+    margin: 0.5rem 0;
+  }
+
+  .section-title {
+    margin-top: 1rem;
+    font-weight: 600;
+  }
+}
