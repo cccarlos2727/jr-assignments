@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 
 const CourseCard = ({ course, onEnroll }) => {
-  const { key, title, price, language, duration, location, img, newlyAdded, difficutly } = course;
+  const { key, title, price, language, duration, location, img, newlyAdded, difficutly, isCompleted } = course;
 
   const [isReviewed, setIsReviewed] = useState(false);
   const [isSubmitted, setIsSubmitted] = useState(false);
@@ -26,13 +26,13 @@ const CourseCard = ({ course, onEnroll }) => {
             <h3>{`Course Name: ${title}`}</h3>
             <p>{`Price: ${price}`}</p>
             <p>{`Language: ${language}`}</p>
-            <p>{`Duration: ${duration}min`}</p>
+            <p>{`Duration: ${duration} hours`}</p>
             <p>{`Location: ${location}`}</p>
             <p className='difficlty'>{`Difficulty: ${difficutly}`}</p>
             <p>{`Enrolled ${enrollCount}`}</p>
-            {difficutly === "Beginner"?
-              <button >Start Learning Now!</button>:
-              <button onClick={handleEnrollCount}>Enroll now!</button>
+            {isCompleted === "no"?
+              <button onClick={handleEnrollCount}>Start Course</button>:
+              <button >Revisit Course</button>
             }            
 
             {newlyAdded? 

@@ -18,29 +18,32 @@ function App() {
       location: "Sydney",
       img: courseImg,
       newlyAdded: true,
-      difficutly: "Intermediate"
+      difficutly: "Intermediate",
+      isCompleted: "yes"
     },
     {
       id: 2,
       title: "Coding",
       price: 50,
       language: "English",
-      duration: 60,
+      duration: 30,
       location: "Sydney",
       img: courseImg,
       newlyAdded: null,
-      difficutly: "Beginner"
+      difficutly: "Beginner",
+      isCompleted: "no"
     },
     {
       id: 3,
       title: "Coding",
       price: 50,
       language: "English",
-      duration: 60,
+      duration: 40,
       location: "Sydney",
       img: courseImg,
       newlyAdded: true,
-      difficutly: "Advanced"
+      difficutly: "Advanced",
+      isCompleted: "yes"
     }
   ]
 
