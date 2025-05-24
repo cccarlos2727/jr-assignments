@@ -4,16 +4,16 @@ import viteLogo from '/vite.svg'
 import LecturerCard from './components/LecturerCard'
 import fetchData from './utils/cardApi'
 
+  const LECTURE_API = 'https://my-json-server.typicode.com/JustinHu8/courseCardMock/lecturers';
 
 function App() {
-  const cardApi = 'https://my-json-server.typicode.com/JustinHu8/courseCardMock/lecturers';
   const [cards, setCards] = useState([]);
   const [error, setError] = useState('');
 
   useEffect(() => {
-    const fetchMain = async (cardApi) => {
+    const fetchMain = async (LECTURE_API) => {
       try {
-        const data = await fetchData(cardApi);
+        const data = await fetchData(LECTURE_API);
         setCards(data);
         console.log(data);
       } catch(err) {
@@ -21,8 +21,8 @@ function App() {
         console.error(err)
       }      
     }
-    fetchMain(cardApi);
-  },[cardApi])
+    fetchMain(LECTURE_API);
+  },[LECTURE_API])
   
 
   if(error) {
