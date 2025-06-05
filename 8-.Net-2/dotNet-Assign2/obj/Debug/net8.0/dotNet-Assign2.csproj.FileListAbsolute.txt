@@ -1,0 +1,15 @@
+C:\Users\Carlos\Documents\GitHub\jr-assignments\8-.Net-2\dotNet-Assign2\bin\Debug\net8.0\dotNet-Assign2.exe
+C:\Users\Carlos\Documents\GitHub\jr-assignments\8-.Net-2\dotNet-Assign2\bin\Debug\net8.0\dotNet-Assign2.deps.json
+C:\Users\Carlos\Documents\GitHub\jr-assignments\8-.Net-2\dotNet-Assign2\bin\Debug\net8.0\dotNet-Assign2.runtimeconfig.json
+C:\Users\Carlos\Documents\GitHub\jr-assignments\8-.Net-2\dotNet-Assign2\bin\Debug\net8.0\dotNet-Assign2.dll
+C:\Users\Carlos\Documents\GitHub\jr-assignments\8-.Net-2\dotNet-Assign2\bin\Debug\net8.0\dotNet-Assign2.pdb
+C:\Users\Carlos\Documents\GitHub\jr-assignments\8-.Net-2\dotNet-Assign2\obj\Debug\net8.0\dotNet-Assign2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Documents\GitHub\jr-assignments\8-.Net-2\dotNet-Assign2\obj\Debug\net8.0\dotNet-Assign2.AssemblyInfoInputs.cache
+C:\Users\Carlos\Documents\GitHub\jr-assignments\8-.Net-2\dotNet-Assign2\obj\Debug\net8.0\dotNet-Assign2.AssemblyInfo.cs
+C:\Users\Carlos\Documents\GitHub\jr-assignments\8-.Net-2\dotNet-Assign2\obj\Debug\net8.0\dotNet-Assign2.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Documents\GitHub\jr-assignments\8-.Net-2\dotNet-Assign2\obj\Debug\net8.0\dotNet-Assign2.sourcelink.json
+C:\Users\Carlos\Documents\GitHub\jr-assignments\8-.Net-2\dotNet-Assign2\obj\Debug\net8.0\dotNet-Assign2.dll
+C:\Users\Carlos\Documents\GitHub\jr-assignments\8-.Net-2\dotNet-Assign2\obj\Debug\net8.0\refint\dotNet-Assign2.dll
+C:\Users\Carlos\Documents\GitHub\jr-assignments\8-.Net-2\dotNet-Assign2\obj\Debug\net8.0\dotNet-Assign2.pdb
+C:\Users\Carlos\Documents\GitHub\jr-assignments\8-.Net-2\dotNet-Assign2\obj\Debug\net8.0\dotNet-Assign2.genruntimeconfig.cache
+C:\Users\Carlos\Documents\GitHub\jr-assignments\8-.Net-2\dotNet-Assign2\obj\Debug\net8.0\ref\dotNet-Assign2.dll

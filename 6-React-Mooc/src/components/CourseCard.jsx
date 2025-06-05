@@ -17,7 +17,7 @@ const CourseCard = ({ course, onEnroll }) => {
 
   const handleEnrollCount = () => {
     setEnrollCount((prev) => prev + 1);
-    onEnroll();
+    onEnroll(course.title);
   }
 
   return (
