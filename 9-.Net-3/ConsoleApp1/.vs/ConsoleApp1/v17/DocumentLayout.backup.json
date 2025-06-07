@@ -11,12 +11,24 @@
       "RelativeMoniker": "D:0:0:{A90DAF72-748E-4431-9239-DA138E3AF0D5}|ConsoleApp1.csproj|solutionrelative:student\\studentbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90DAF72-748E-4431-9239-DA138E3AF0D5}|ConsoleApp1.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\9-.net-3\\consoleapp1\\faculty\\facultybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A90DAF72-748E-4431-9239-DA138E3AF0D5}|ConsoleApp1.csproj|solutionrelative:faculty\\facultybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A90DAF72-748E-4431-9239-DA138E3AF0D5}|ConsoleApp1.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\9-.net-3\\consoleapp1\\interface\\inotify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90DAF72-748E-4431-9239-DA138E3AF0D5}|ConsoleApp1.csproj|solutionrelative:interface\\inotify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A90DAF72-748E-4431-9239-DA138E3AF0D5}|ConsoleApp1.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\9-.net-3\\consoleapp1\\interface\\iacess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A90DAF72-748E-4431-9239-DA138E3AF0D5}|ConsoleApp1.csproj|solutionrelative:interface\\iacess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90DAF72-748E-4431-9239-DA138E3AF0D5}|ConsoleApp1.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\9-.net-3\\consoleapp1\\interface\\irefer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90DAF72-748E-4431-9239-DA138E3AF0D5}|ConsoleApp1.csproj|solutionrelative:interface\\irefer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90DAF72-748E-4431-9239-DA138E3AF0D5}|ConsoleApp1.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\9-.net-3\\consoleapp1\\staff\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90DAF72-748E-4431-9239-DA138E3AF0D5}|ConsoleApp1.csproj|solutionrelative:staff\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90DAF72-748E-4431-9239-DA138E3AF0D5}|ConsoleApp1.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\9-.net-3\\consoleapp1\\staff\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90DAF72-748E-4431-9239-DA138E3AF0D5}|ConsoleApp1.csproj|solutionrelative:staff\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A90DAF72-748E-4431-9239-DA138E3AF0D5}|ConsoleApp1.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\9-.net-3\\consoleapp1\\staff\\tutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,20 +39,8 @@
       "RelativeMoniker": "D:0:0:{A90DAF72-748E-4431-9239-DA138E3AF0D5}|ConsoleApp1.csproj|solutionrelative:faculty\\coding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A90DAF72-748E-4431-9239-DA138E3AF0D5}|ConsoleApp1.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\9-.net-3\\consoleapp1\\staff\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A90DAF72-748E-4431-9239-DA138E3AF0D5}|ConsoleApp1.csproj|solutionrelative:staff\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A90DAF72-748E-4431-9239-DA138E3AF0D5}|ConsoleApp1.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\9-.net-3\\consoleapp1\\interface\\inotify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A90DAF72-748E-4431-9239-DA138E3AF0D5}|ConsoleApp1.csproj|solutionrelative:interface\\inotify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A90DAF72-748E-4431-9239-DA138E3AF0D5}|ConsoleApp1.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\9-.net-3\\consoleapp1\\staff\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A90DAF72-748E-4431-9239-DA138E3AF0D5}|ConsoleApp1.csproj|solutionrelative:staff\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A90DAF72-748E-4431-9239-DA138E3AF0D5}|ConsoleApp1.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\9-.net-3\\consoleapp1\\interface\\irefer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A90DAF72-748E-4431-9239-DA138E3AF0D5}|ConsoleApp1.csproj|solutionrelative:interface\\irefer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A90DAF72-748E-4431-9239-DA138E3AF0D5}|ConsoleApp1.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\9-.net-3\\consoleapp1\\faculty\\facultybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90DAF72-748E-4431-9239-DA138E3AF0D5}|ConsoleApp1.csproj|solutionrelative:faculty\\facultybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,6 +52,34 @@
           "DockedHeight": 280,
           "SelectedChildIndex": 59,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tutor.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\9-.Net-3\\ConsoleApp1\\Staff\\Tutor.cs",
+              "RelativeDocumentMoniker": "Staff\\Tutor.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\9-.Net-3\\ConsoleApp1\\Staff\\Tutor.cs",
+              "RelativeToolTip": "Staff\\Tutor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T07:16:22.468Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\9-.Net-3\\ConsoleApp1\\Staff\\Instructor.cs",
+              "RelativeDocumentMoniker": "Staff\\Instructor.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\9-.Net-3\\ConsoleApp1\\Staff\\Instructor.cs",
+              "RelativeToolTip": "Staff\\Instructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T07:16:31.997Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -267,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "INotify.cs",
               "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\9-.Net-3\\ConsoleApp1\\Interface\\INotify.cs",
               "RelativeDocumentMoniker": "Interface\\INotify.cs",
@@ -293,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "IRefer.cs",
               "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\9-.Net-3\\ConsoleApp1\\Interface\\IRefer.cs",
               "RelativeDocumentMoniker": "Interface\\IRefer.cs",
@@ -307,32 +335,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Instructor.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\9-.Net-3\\ConsoleApp1\\Staff\\Instructor.cs",
-              "RelativeDocumentMoniker": "Staff\\Instructor.cs",
-              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\9-.Net-3\\ConsoleApp1\\Staff\\Instructor.cs",
-              "RelativeToolTip": "Staff\\Instructor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T07:16:31.997Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Tutor.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\9-.Net-3\\ConsoleApp1\\Staff\\Tutor.cs",
-              "RelativeDocumentMoniker": "Staff\\Tutor.cs",
-              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\9-.Net-3\\ConsoleApp1\\Staff\\Tutor.cs",
-              "RelativeToolTip": "Staff\\Tutor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T07:16:22.468Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Professor.cs",
               "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\9-.Net-3\\ConsoleApp1\\Staff\\Professor.cs",
               "RelativeDocumentMoniker": "Staff\\Professor.cs",
@@ -345,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Coding.cs",
               "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\9-.Net-3\\ConsoleApp1\\Faculty\\Coding.cs",
               "RelativeDocumentMoniker": "Faculty\\Coding.cs",
@@ -358,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "FacultyBase.cs",
               "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\9-.Net-3\\ConsoleApp1\\Faculty\\FacultyBase.cs",
               "RelativeDocumentMoniker": "Faculty\\FacultyBase.cs",
@@ -377,7 +379,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\9-.Net-3\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAwC8AAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-06T05:12:59.959Z",
               "EditorCaption": ""

@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 280,
-          "SelectedChildIndex": 59,
+          "SelectedChildIndex": 54,
           "Children": [
             {
               "$type": "Document",
@@ -63,8 +63,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-06T07:16:22.468Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -77,8 +76,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-06T07:16:31.997Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -282,28 +280,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StudentBase.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\9-.Net-3\\ConsoleApp1\\Student\\StudentBase.cs",
-              "RelativeDocumentMoniker": "Student\\StudentBase.cs",
-              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\9-.Net-3\\ConsoleApp1\\Student\\StudentBase.cs",
-              "RelativeToolTip": "Student\\StudentBase.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "IRefer.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\9-.Net-3\\ConsoleApp1\\Interface\\IRefer.cs",
+              "RelativeDocumentMoniker": "Interface\\IRefer.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\9-.Net-3\\ConsoleApp1\\Interface\\IRefer.cs",
+              "RelativeToolTip": "Interface\\IRefer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T03:21:57.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-06T07:17:26.024Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "INotify.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\9-.Net-3\\ConsoleApp1\\Interface\\INotify.cs",
-              "RelativeDocumentMoniker": "Interface\\INotify.cs",
-              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\9-.Net-3\\ConsoleApp1\\Interface\\INotify.cs",
-              "RelativeToolTip": "Interface\\INotify.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAA9AAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\9-.Net-3\\ConsoleApp1\\Staff\\Professor.cs",
+              "RelativeDocumentMoniker": "Staff\\Professor.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\9-.Net-3\\ConsoleApp1\\Staff\\Professor.cs",
+              "RelativeToolTip": "Staff\\Professor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T07:19:34.572Z",
+              "WhenOpened": "2025-06-06T07:16:11.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\9-.Net-3\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\9-.Net-3\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T05:12:59.959Z",
               "EditorCaption": ""
             },
             {
@@ -316,34 +325,31 @@
               "RelativeToolTip": "Interface\\IAcess.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T07:18:43.281Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-06T07:18:43.281Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IRefer.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\9-.Net-3\\ConsoleApp1\\Interface\\IRefer.cs",
-              "RelativeDocumentMoniker": "Interface\\IRefer.cs",
-              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\9-.Net-3\\ConsoleApp1\\Interface\\IRefer.cs",
-              "RelativeToolTip": "Interface\\IRefer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "INotify.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\9-.Net-3\\ConsoleApp1\\Interface\\INotify.cs",
+              "RelativeDocumentMoniker": "Interface\\INotify.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\9-.Net-3\\ConsoleApp1\\Interface\\INotify.cs",
+              "RelativeToolTip": "Interface\\INotify.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T07:17:26.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-06T07:19:34.572Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Professor.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\9-.Net-3\\ConsoleApp1\\Staff\\Professor.cs",
-              "RelativeDocumentMoniker": "Staff\\Professor.cs",
-              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\9-.Net-3\\ConsoleApp1\\Staff\\Professor.cs",
-              "RelativeToolTip": "Staff\\Professor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "StudentBase.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\9-.Net-3\\ConsoleApp1\\Student\\StudentBase.cs",
+              "RelativeDocumentMoniker": "Student\\StudentBase.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\9-.Net-3\\ConsoleApp1\\Student\\StudentBase.cs",
+              "RelativeToolTip": "Student\\StudentBase.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T07:16:11.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T03:21:57.884Z"
             },
             {
               "$type": "Document",
@@ -355,8 +361,7 @@
               "RelativeToolTip": "Faculty\\Coding.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T05:50:00.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-06T05:50:00.736Z"
             },
             {
               "$type": "Document",
@@ -368,21 +373,7 @@
               "RelativeToolTip": "Faculty\\FacultyBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T05:29:59.725Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\9-.Net-3\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\9-.Net-3\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBAAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T05:12:59.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-06T05:29:59.725Z"
             }
           ]
         },
