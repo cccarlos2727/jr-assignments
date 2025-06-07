@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1.Faculty
 {
-    public abstract class Faculty
+    public abstract class FacultyBase
     {
         public List<string> Activities { get; set; } = new List<string> { };
         public List<string> Lectures { get; set; } = new List<string> { };

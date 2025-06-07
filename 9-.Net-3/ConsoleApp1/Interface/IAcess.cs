@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ConsoleApp1.Student;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,6 +9,6 @@ namespace ConsoleApp1.Interface
 {
     interface IAcess
     {
-        public void AssessStudentGrade();
+        public void AssessStudentGrade(List<StudentBase> students);
     }
 }

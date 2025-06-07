@@ -1,4 +1,8 @@
 ﻿using ConsoleApp1.Faculty;
+using ConsoleApp1.Interface;
+using ConsoleApp1.Staff;
+using ConsoleApp1.Student;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace ConsoleApp1
 {
@@ -6,7 +10,25 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("Hello, World!");
+
+            #region Setting up DI
+            var services = new ServiceCollection();
+            services.AddTransient<INotify, Instructor>();
+            services.AddTransient<Instructor>();
+
+            services.AddTransient<IRefer, Professor>();
+            services.AddTransient<Professor>();
+
+            services.AddTransient<IAcess, Tutor>();
+            services.AddTransient<Tutor>();
+
+
+            var serviceProvider = services.BuildServiceProvider();
+            var instructor = serviceProvider.GetRequiredService<Instructor>();
+            var professor = serviceProvider.GetRequiredService<Professor>();
+            var tutor = serviceProvider.GetRequiredService<Tutor>();
+            #endregion
+
 
             #region Overload Method
             //Calculator.Add(3, 5);
@@ -19,7 +41,20 @@ namespace ConsoleApp1
             //codingCourse.DefineLearningObjectives();
             #endregion
 
+            #region Creating Student List
+            List<StudentBase> studentList = new List<StudentBase>();
+            for(var i = 0; i < 10; i++)
+            {
+                studentList.Add(new StudentBase(i, "null"));
+                
+            }
+            #endregion
 
+            #region Staff action
+            instructor.Notification(studentList);
+            tutor.AssessStudentGrade(studentList);                        
+            professor.ReferTheJob(studentList);
+            #endregion
 
         }
     }

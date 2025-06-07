@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1.Faculty
 {
-    public class Coding: Faculty
+    public class Coding: FacultyBase
     {
         public override void PlanLearningMethod()
         {
