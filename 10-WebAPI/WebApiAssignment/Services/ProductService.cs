@@ -13,19 +13,14 @@ namespace WebApiAssignment.Services
             new Product { Id = 3, Name = "Monitor", Price = 150.00M }
         };
 
-        public JsonResult GetAll()
+        public List<Product> GetAll()
         {
-            return new JsonResult(_products);
+            return _products;
         }
 
-        public JsonResult GetById(int id)
+        public Product? GetById(int id)
         {
-            var product = _products.FirstOrDefault(p => p.Id == id);
-            if(product == null)
-            {
-                return new JsonResult(new { Message = "Product not found" }) { StatusCode = 404 };
-            }
-            return new JsonResult(product);
+            return _products.FirstOrDefault(p => p.Id == id);            
 
         }
 

@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using WebApiAssignment.Interface;
+using WebApiAssignment.Models;
 
 namespace WebApiAssignment.Services
 {
@@ -11,10 +12,10 @@ namespace WebApiAssignment.Services
             return new JsonResult(new { Name = "Alice", Age = 30 });
         }
 
-        public object? GetUserById(int id)
+        public User? GetUserById(int id)
         {
             if (id < 0) return null;
-            return new { Name = "Bob", Age = 28 };
+            return new User{ Name = "Bob", Age = 28 };
         }
 
     }

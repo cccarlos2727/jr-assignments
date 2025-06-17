@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using WebApiAssignment.Models;
 
 namespace WebApiAssignment.Interface
 {
@@ -6,10 +7,6 @@ namespace WebApiAssignment.Interface
     {
         public JsonResult GetUserInfo();
 
-        public object? GetUserById(int id);
-        //public IActionResult AccessUserInfo(int id);
-
-
-        
+        public User? GetUserById(int id);              
     }
 }

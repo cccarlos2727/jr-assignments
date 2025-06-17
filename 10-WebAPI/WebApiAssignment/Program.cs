@@ -1,3 +1,4 @@
+using System.Threading.Channels;
 using WebApiAssignment.Config;
 using WebApiAssignment.Interface;
 using WebApiAssignment.Interfaces;
@@ -23,12 +24,15 @@ namespace WebApiAssignment
 
             #region Bind configuration
             var key = builder.Configuration["key"];            
-            var mySettings = builder.Configuration.GetRequiredSection("MySettings").Get<MySettings>();
+            var mySettings = builder.Configuration.GetRequiredSection("MySettings").Get<MySettings>();            
 
             var mySettingsTrial = new MySettings();
             builder.Configuration.GetSection("MySettings").Bind(mySettingsTrial);
             Console.WriteLine($"AppName: {mySettingsTrial.AppName}, Version: {mySettingsTrial.Version}");
+            #endregion
 
+            #region Environment
+            var environment = builder.Environment;           
             #endregion
 
 

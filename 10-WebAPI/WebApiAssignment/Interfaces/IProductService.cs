@@ -1,11 +1,12 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using WebApiAssignment.Models;
 
 namespace WebApiAssignment.Interfaces
 {
     public interface IProductService
     {
-        public JsonResult GetAll();
+        public List<Product> GetAll();
 
-        public JsonResult GetById(int id);
+        public Product GetById(int id);
     }
 }

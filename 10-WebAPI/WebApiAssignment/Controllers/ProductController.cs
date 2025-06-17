@@ -19,13 +19,19 @@ namespace WebApiAssignment.Controllers
         [HttpGet]
         public JsonResult GetAll()
         {
-            return this._productService.GetAll();
+            var product = this._productService.GetAll();
+            return new JsonResult(product);
         }
 
         [HttpGet]
-        public JsonResult GetById(int id)
+        public IActionResult GetById(int id)
         {
-            return this._productService.GetById(id);
+            var product = this._productService.GetById(id);
+            if(product == null)
+            {
+                return NotFound(new { Message = "Product not found" });
+            }
+            return Ok(product);
         }
 
     }

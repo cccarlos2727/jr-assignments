@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\10-WebAPI\\WebApiAssignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{481BFD4C-2D49-44C0-9BBB-A610C38B55C6}|WebApiAssignment.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\10-webapi\\webapiassignment\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{481BFD4C-2D49-44C0-9BBB-A610C38B55C6}|WebApiAssignment.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{481BFD4C-2D49-44C0-9BBB-A610C38B55C6}|WebApiAssignment.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\10-webapi\\webapiassignment\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{481BFD4C-2D49-44C0-9BBB-A610C38B55C6}|WebApiAssignment.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{481BFD4C-2D49-44C0-9BBB-A610C38B55C6}|WebApiAssignment.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\10-webapi\\webapiassignment\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{481BFD4C-2D49-44C0-9BBB-A610C38B55C6}|WebApiAssignment.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{481BFD4C-2D49-44C0-9BBB-A610C38B55C6}|WebApiAssignment.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\10-webapi\\webapiassignment\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{481BFD4C-2D49-44C0-9BBB-A610C38B55C6}|WebApiAssignment.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,12 +11,8 @@
       "RelativeMoniker": "D:0:0:{481BFD4C-2D49-44C0-9BBB-A610C38B55C6}|WebApiAssignment.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{481BFD4C-2D49-44C0-9BBB-A610C38B55C6}|WebApiAssignment.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\10-webapi\\webapiassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{481BFD4C-2D49-44C0-9BBB-A610C38B55C6}|WebApiAssignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{481BFD4C-2D49-44C0-9BBB-A610C38B55C6}|WebApiAssignment.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\10-webapi\\webapiassignment\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{481BFD4C-2D49-44C0-9BBB-A610C38B55C6}|WebApiAssignment.csproj|solutionrelative:interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{481BFD4C-2D49-44C0-9BBB-A610C38B55C6}|WebApiAssignment.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\10-webapi\\webapiassignment\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481BFD4C-2D49-44C0-9BBB-A610C38B55C6}|WebApiAssignment.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{481BFD4C-2D49-44C0-9BBB-A610C38B55C6}|WebApiAssignment.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\10-webapi\\webapiassignment\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,12 +23,8 @@
       "RelativeMoniker": "D:0:0:{481BFD4C-2D49-44C0-9BBB-A610C38B55C6}|WebApiAssignment.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{481BFD4C-2D49-44C0-9BBB-A610C38B55C6}|WebApiAssignment.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\10-webapi\\webapiassignment\\webapiassignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{481BFD4C-2D49-44C0-9BBB-A610C38B55C6}|WebApiAssignment.csproj|solutionrelative:webapiassignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{481BFD4C-2D49-44C0-9BBB-A610C38B55C6}|WebApiAssignment.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\10-webapi\\webapiassignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{481BFD4C-2D49-44C0-9BBB-A610C38B55C6}|WebApiAssignment.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{481BFD4C-2D49-44C0-9BBB-A610C38B55C6}|WebApiAssignment.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\10-webapi\\webapiassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481BFD4C-2D49-44C0-9BBB-A610C38B55C6}|WebApiAssignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{481BFD4C-2D49-44C0-9BBB-A610C38B55C6}|WebApiAssignment.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\10-webapi\\webapiassignment\\config\\mysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,84 +38,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 24,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\10-WebAPI\\WebApiAssignment\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\10-WebAPI\\WebApiAssignment\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T04:50:36.553Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\10-WebAPI\\WebApiAssignment\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\10-WebAPI\\WebApiAssignment\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T04:41:40.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\10-WebAPI\\WebApiAssignment\\Interfaces\\IProductService.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IProductService.cs",
-              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\10-WebAPI\\WebApiAssignment\\Interfaces\\IProductService.cs",
-              "RelativeToolTip": "Interfaces\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T04:35:13.145Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\10-WebAPI\\WebApiAssignment\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\10-WebAPI\\WebApiAssignment\\Services\\ProductService.cs",
-              "RelativeToolTip": "Services\\ProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T04:34:52.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\10-WebAPI\\WebApiAssignment\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
               "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\10-WebAPI\\WebApiAssignment\\Models\\User.cs",
               "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T04:11:15.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "WebApiAssignment",
-              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\10-WebAPI\\WebApiAssignment\\WebApiAssignment.csproj",
-              "RelativeDocumentMoniker": "WebApiAssignment.csproj",
-              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\10-WebAPI\\WebApiAssignment\\WebApiAssignment.csproj",
-              "RelativeToolTip": "WebApiAssignment.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-17T04:10:11.705Z",
+              "WhenOpened": "2025-06-17T11:36:15.997Z",
               "EditorCaption": ""
             },
             {
@@ -220,59 +135,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\10-WebAPI\\WebApiAssignment\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\10-WebAPI\\WebApiAssignment\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T04:50:36.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\10-WebAPI\\WebApiAssignment\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\10-WebAPI\\WebApiAssignment\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T03:05:11.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\10-WebAPI\\WebApiAssignment\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\10-WebAPI\\WebApiAssignment\\Services\\UserService.cs",
-              "RelativeToolTip": "Services\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T03:03:00.662Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\10-WebAPI\\WebApiAssignment\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "Interfaces\\IUserService.cs",
-              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\10-WebAPI\\WebApiAssignment\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "Interfaces\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\10-WebAPI\\WebApiAssignment\\Interfaces\\IUserService.cs*",
+              "RelativeToolTip": "Interfaces\\IUserService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-17T03:00:52.863Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\10-WebAPI\\WebApiAssignment\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\10-WebAPI\\WebApiAssignment\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-17T02:57:05.1Z",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\10-WebAPI\\WebApiAssignment\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\10-WebAPI\\WebApiAssignment\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T03:03:00.662Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\10-WebAPI\\WebApiAssignment\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\10-WebAPI\\WebApiAssignment\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T03:05:11.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "MySettings.cs",
               "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\10-WebAPI\\WebApiAssignment\\Config\\MySettings.cs",
               "RelativeDocumentMoniker": "Config\\MySettings.cs",
@@ -291,7 +206,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\10-WebAPI\\WebApiAssignment\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-16T11:20:31.315Z",
               "EditorCaption": ""
