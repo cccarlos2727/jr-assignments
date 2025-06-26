@@ -1,0 +1,15 @@
+C:\Users\Carlos\Documents\GitHub\jr-assignments\12-.Net-4\Assig-4\bin\Debug\net8.0\Assig-4.exe
+C:\Users\Carlos\Documents\GitHub\jr-assignments\12-.Net-4\Assig-4\bin\Debug\net8.0\Assig-4.deps.json
+C:\Users\Carlos\Documents\GitHub\jr-assignments\12-.Net-4\Assig-4\bin\Debug\net8.0\Assig-4.runtimeconfig.json
+C:\Users\Carlos\Documents\GitHub\jr-assignments\12-.Net-4\Assig-4\bin\Debug\net8.0\Assig-4.dll
+C:\Users\Carlos\Documents\GitHub\jr-assignments\12-.Net-4\Assig-4\bin\Debug\net8.0\Assig-4.pdb
+C:\Users\Carlos\Documents\GitHub\jr-assignments\12-.Net-4\Assig-4\obj\Debug\net8.0\Assig-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Documents\GitHub\jr-assignments\12-.Net-4\Assig-4\obj\Debug\net8.0\Assig-4.AssemblyInfoInputs.cache
+C:\Users\Carlos\Documents\GitHub\jr-assignments\12-.Net-4\Assig-4\obj\Debug\net8.0\Assig-4.AssemblyInfo.cs
+C:\Users\Carlos\Documents\GitHub\jr-assignments\12-.Net-4\Assig-4\obj\Debug\net8.0\Assig-4.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Documents\GitHub\jr-assignments\12-.Net-4\Assig-4\obj\Debug\net8.0\Assig-4.sourcelink.json
+C:\Users\Carlos\Documents\GitHub\jr-assignments\12-.Net-4\Assig-4\obj\Debug\net8.0\Assig-4.dll
+C:\Users\Carlos\Documents\GitHub\jr-assignments\12-.Net-4\Assig-4\obj\Debug\net8.0\refint\Assig-4.dll
+C:\Users\Carlos\Documents\GitHub\jr-assignments\12-.Net-4\Assig-4\obj\Debug\net8.0\Assig-4.pdb
+C:\Users\Carlos\Documents\GitHub\jr-assignments\12-.Net-4\Assig-4\obj\Debug\net8.0\Assig-4.genruntimeconfig.cache
+C:\Users\Carlos\Documents\GitHub\jr-assignments\12-.Net-4\Assig-4\obj\Debug\net8.0\ref\Assig-4.dll
