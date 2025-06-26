@@ -7,44 +7,36 @@
       "RelativeMoniker": "D:0:0:{7564DB35-BD13-49BC-B3C8-CA5C436B9DF0}|API-Filter-Assig.csproj|solutionrelative:middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7564DB35-BD13-49BC-B3C8-CA5C436B9DF0}|API-Filter-Assig.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\11-api-filter\\api-filter\\filter\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7564DB35-BD13-49BC-B3C8-CA5C436B9DF0}|API-Filter-Assig.csproj|solutionrelative:filter\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7564DB35-BD13-49BC-B3C8-CA5C436B9DF0}|API-Filter-Assig.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\11-api-filter\\api-filter\\filter\\resultfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7564DB35-BD13-49BC-B3C8-CA5C436B9DF0}|API-Filter-Assig.csproj|solutionrelative:filter\\resultfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7564DB35-BD13-49BC-B3C8-CA5C436B9DF0}|API-Filter-Assig.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\11-api-filter\\api-filter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7564DB35-BD13-49BC-B3C8-CA5C436B9DF0}|API-Filter-Assig.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7564DB35-BD13-49BC-B3C8-CA5C436B9DF0}|API-Filter-Assig.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\11-api-filter\\api-filter\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7564DB35-BD13-49BC-B3C8-CA5C436B9DF0}|API-Filter-Assig.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7564DB35-BD13-49BC-B3C8-CA5C436B9DF0}|API-Filter-Assig.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\11-api-filter\\api-filter\\filter\\actionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7564DB35-BD13-49BC-B3C8-CA5C436B9DF0}|API-Filter-Assig.csproj|solutionrelative:filter\\actionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7564DB35-BD13-49BC-B3C8-CA5C436B9DF0}|API-Filter-Assig.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\11-api-filter\\api-filter\\viewmodel\\commonresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7564DB35-BD13-49BC-B3C8-CA5C436B9DF0}|API-Filter-Assig.csproj|solutionrelative:viewmodel\\commonresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7564DB35-BD13-49BC-B3C8-CA5C436B9DF0}|API-Filter-Assig.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\11-api-filter\\api-filter\\filter\\actionloggingfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7564DB35-BD13-49BC-B3C8-CA5C436B9DF0}|API-Filter-Assig.csproj|solutionrelative:filter\\actionloggingfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7564DB35-BD13-49BC-B3C8-CA5C436B9DF0}|API-Filter-Assig.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\11-api-filter\\api-filter\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7564DB35-BD13-49BC-B3C8-CA5C436B9DF0}|API-Filter-Assig.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7564DB35-BD13-49BC-B3C8-CA5C436B9DF0}|API-Filter-Assig.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\11-api-filter\\api-filter\\viewmodel\\passwordvalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7564DB35-BD13-49BC-B3C8-CA5C436B9DF0}|API-Filter-Assig.csproj|solutionrelative:viewmodel\\passwordvalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7564DB35-BD13-49BC-B3C8-CA5C436B9DF0}|API-Filter-Assig.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\11-api-filter\\api-filter\\viewmodel\\commonresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7564DB35-BD13-49BC-B3C8-CA5C436B9DF0}|API-Filter-Assig.csproj|solutionrelative:viewmodel\\commonresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7564DB35-BD13-49BC-B3C8-CA5C436B9DF0}|API-Filter-Assig.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\11-api-filter\\api-filter\\viewmodel\\addressvalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7564DB35-BD13-49BC-B3C8-CA5C436B9DF0}|API-Filter-Assig.csproj|solutionrelative:viewmodel\\addressvalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7564DB35-BD13-49BC-B3C8-CA5C436B9DF0}|API-Filter-Assig.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\11-api-filter\\api-filter\\extension\\modelstateextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7564DB35-BD13-49BC-B3C8-CA5C436B9DF0}|API-Filter-Assig.csproj|solutionrelative:extension\\modelstateextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7564DB35-BD13-49BC-B3C8-CA5C436B9DF0}|API-Filter-Assig.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\11-api-filter\\api-filter\\models\\genderenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7564DB35-BD13-49BC-B3C8-CA5C436B9DF0}|API-Filter-Assig.csproj|solutionrelative:models\\genderenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7564DB35-BD13-49BC-B3C8-CA5C436B9DF0}|API-Filter-Assig.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\11-api-filter\\api-filter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7564DB35-BD13-49BC-B3C8-CA5C436B9DF0}|API-Filter-Assig.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7564DB35-BD13-49BC-B3C8-CA5C436B9DF0}|API-Filter-Assig.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\11-api-filter\\api-filter\\filter\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7564DB35-BD13-49BC-B3C8-CA5C436B9DF0}|API-Filter-Assig.csproj|solutionrelative:filter\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7564DB35-BD13-49BC-B3C8-CA5C436B9DF0}|API-Filter-Assig.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\11-api-filter\\api-filter\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7564DB35-BD13-49BC-B3C8-CA5C436B9DF0}|API-Filter-Assig.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,8 +46,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 20,
+          "SelectedChildIndex": 22,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\11-API-Filter\\API-Filter\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\11-API-Filter\\API-Filter\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T02:10:58.28Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\11-API-Filter\\API-Filter\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\11-API-Filter\\API-Filter\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:44:28.171Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -144,133 +164,87 @@
               "RelativeDocumentMoniker": "Middleware\\RequestLoggingMiddleware.cs",
               "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\11-API-Filter\\API-Filter\\Middleware\\RequestLoggingMiddleware.cs",
               "RelativeToolTip": "Middleware\\RequestLoggingMiddleware.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T05:24:01.595Z",
+              "WhenOpened": "2025-06-26T07:53:43.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ResultFilter.cs",
               "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\11-API-Filter\\API-Filter\\Filter\\ResultFilter.cs",
               "RelativeDocumentMoniker": "Filter\\ResultFilter.cs",
               "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\11-API-Filter\\API-Filter\\Filter\\ResultFilter.cs",
               "RelativeToolTip": "Filter\\ResultFilter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T03:52:56.496Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "ActionLoggingFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\11-API-Filter\\API-Filter\\Filter\\ActionLoggingFilter.cs",
+              "RelativeDocumentMoniker": "Filter\\ActionLoggingFilter.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\11-API-Filter\\API-Filter\\Filter\\ActionLoggingFilter.cs",
+              "RelativeToolTip": "Filter\\ActionLoggingFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T02:12:15.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModelStateExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\11-API-Filter\\API-Filter\\Extension\\ModelStateExtension.cs",
+              "RelativeDocumentMoniker": "Extension\\ModelStateExtension.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\11-API-Filter\\API-Filter\\Extension\\ModelStateExtension.cs",
+              "RelativeToolTip": "Extension\\ModelStateExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T02:09:11.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\11-API-Filter\\API-Filter\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\11-API-Filter\\API-Filter\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T02:35:16.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ExceptionFilter.cs",
               "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\11-API-Filter\\API-Filter\\Filter\\ExceptionFilter.cs",
               "RelativeDocumentMoniker": "Filter\\ExceptionFilter.cs",
               "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\11-API-Filter\\API-Filter\\Filter\\ExceptionFilter.cs",
               "RelativeToolTip": "Filter\\ExceptionFilter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T03:14:19.775Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ActionFilter.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\11-API-Filter\\API-Filter\\Filter\\ActionFilter.cs",
-              "RelativeDocumentMoniker": "Filter\\ActionFilter.cs",
-              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\11-API-Filter\\API-Filter\\Filter\\ActionFilter.cs",
-              "RelativeToolTip": "Filter\\ActionFilter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T02:12:15.441Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\11-API-Filter\\API-Filter\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\11-API-Filter\\API-Filter\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T02:10:58.28Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "CommonResult.cs",
               "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\11-API-Filter\\API-Filter\\ViewModel\\CommonResult.cs",
               "RelativeDocumentMoniker": "ViewModel\\CommonResult.cs",
               "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\11-API-Filter\\API-Filter\\ViewModel\\CommonResult.cs",
               "RelativeToolTip": "ViewModel\\CommonResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T05:47:02.503Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\11-API-Filter\\API-Filter\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\11-API-Filter\\API-Filter\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T05:44:28.171Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PasswordValidationAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\11-API-Filter\\API-Filter\\ViewModel\\PasswordValidationAttribute.cs",
-              "RelativeDocumentMoniker": "ViewModel\\PasswordValidationAttribute.cs",
-              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\11-API-Filter\\API-Filter\\ViewModel\\PasswordValidationAttribute.cs",
-              "RelativeToolTip": "ViewModel\\PasswordValidationAttribute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T03:43:49.296Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AddressValidationAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\11-API-Filter\\API-Filter\\ViewModel\\AddressValidationAttribute.cs",
-              "RelativeDocumentMoniker": "ViewModel\\AddressValidationAttribute.cs",
-              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\11-API-Filter\\API-Filter\\ViewModel\\AddressValidationAttribute.cs",
-              "RelativeToolTip": "ViewModel\\AddressValidationAttribute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T03:07:11.354Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GenderEnum.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\11-API-Filter\\API-Filter\\Models\\GenderEnum.cs",
-              "RelativeDocumentMoniker": "Models\\GenderEnum.cs",
-              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\11-API-Filter\\API-Filter\\Models\\GenderEnum.cs",
-              "RelativeToolTip": "Models\\GenderEnum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T02:41:39.611Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\11-API-Filter\\API-Filter\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\11-API-Filter\\API-Filter\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T02:35:16.167Z",
+              "WhenOpened": "2025-06-23T05:47:02.503Z",
               "EditorCaption": ""
             }
           ]

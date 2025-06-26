@@ -5,6 +5,8 @@ VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API-Filter-Assig", "API-Filter-Assig.csproj", "{7564DB35-BD13-49BC-B3C8-CA5C436B9DF0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiModel", "..\ApiModel\ApiModel.csproj", "{0B803513-D012-40E4-A539-12B12C8FE94C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7564DB35-BD13-49BC-B3C8-CA5C436B9DF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7564DB35-BD13-49BC-B3C8-CA5C436B9DF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7564DB35-BD13-49BC-B3C8-CA5C436B9DF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B803513-D012-40E4-A539-12B12C8FE94C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B803513-D012-40E4-A539-12B12C8FE94C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B803513-D012-40E4-A539-12B12C8FE94C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B803513-D012-40E4-A539-12B12C8FE94C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

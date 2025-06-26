@@ -8,21 +8,19 @@ namespace API_Filter.Filter
     {
         public void OnException(ExceptionContext context)
         {
-            var errorResponse = new CommonResult
-            {
-                Success = false,
-                Message = "An error occured when processing your request",
-                Errors = $"Error: {context.Exception.Message}",
-                Timestamp = DateTime.UtcNow
-            };
+            var errorResponse = CommonResult<string>.ErrorResponse(
+                context.Exception.Message,
+                "An unexpected error occured"
+                );
 
-            context.Result = new JsonResult(errorResponse)
+
+            context.Result = new ObjectResult(errorResponse)
             {
-                StatusCode = 500
+                StatusCode = StatusCodes.Status500InternalServerError
             };
 
             context.ExceptionHandled = true;
         }
-        
+
     }
 }

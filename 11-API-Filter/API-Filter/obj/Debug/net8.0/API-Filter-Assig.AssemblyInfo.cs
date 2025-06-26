@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API-Filter-Assig")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e147b08a051d16cd112619fac7a6a5a9b872cdf9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7721f36e3afcf80b1aaa75e537ce10b91a7ca4e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("API-Filter-Assig")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API-Filter-Assig")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

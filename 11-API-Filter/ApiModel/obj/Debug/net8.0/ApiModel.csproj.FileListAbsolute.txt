@@ -1,0 +1,12 @@
+C:\Users\Carlos\Documents\GitHub\jr-assignments\11-API-Filter\ApiModel\bin\Debug\net8.0\ApiModel.deps.json
+C:\Users\Carlos\Documents\GitHub\jr-assignments\11-API-Filter\ApiModel\bin\Debug\net8.0\ApiModel.dll
+C:\Users\Carlos\Documents\GitHub\jr-assignments\11-API-Filter\ApiModel\bin\Debug\net8.0\ApiModel.pdb
+C:\Users\Carlos\Documents\GitHub\jr-assignments\11-API-Filter\ApiModel\obj\Debug\net8.0\ApiModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Documents\GitHub\jr-assignments\11-API-Filter\ApiModel\obj\Debug\net8.0\ApiModel.AssemblyInfoInputs.cache
+C:\Users\Carlos\Documents\GitHub\jr-assignments\11-API-Filter\ApiModel\obj\Debug\net8.0\ApiModel.AssemblyInfo.cs
+C:\Users\Carlos\Documents\GitHub\jr-assignments\11-API-Filter\ApiModel\obj\Debug\net8.0\ApiModel.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Documents\GitHub\jr-assignments\11-API-Filter\ApiModel\obj\Debug\net8.0\ApiModel.sourcelink.json
+C:\Users\Carlos\Documents\GitHub\jr-assignments\11-API-Filter\ApiModel\obj\Debug\net8.0\ApiModel.dll
+C:\Users\Carlos\Documents\GitHub\jr-assignments\11-API-Filter\ApiModel\obj\Debug\net8.0\refint\ApiModel.dll
+C:\Users\Carlos\Documents\GitHub\jr-assignments\11-API-Filter\ApiModel\obj\Debug\net8.0\ApiModel.pdb
+C:\Users\Carlos\Documents\GitHub\jr-assignments\11-API-Filter\ApiModel\obj\Debug\net8.0\ref\ApiModel.dll

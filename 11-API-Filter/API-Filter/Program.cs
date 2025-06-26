@@ -1,3 +1,4 @@
+//using API_Filter.Filter;
 using API_Filter.Filter;
 using API_Filter.Middleware;
 using Microsoft.AspNetCore.Mvc;
@@ -11,12 +12,12 @@ namespace API_Filter
             var builder = WebApplication.CreateBuilder(args);
             builder.Services.AddMemoryCache();
 
-            // Register filters globally
+            //Register filters globally
             builder.Services.AddControllers(options =>
             {
-                options.Filters.Add<ActionFilter>();
+                options.Filters.Add<ActionLoggingFilter>();
                 options.Filters.Add<ExceptionFilter>();
-                options.Filters.Add<ResultFilter>();
+                //options.Filters.Add<ResultFilter>();
             });
 
             // Turn off the default Bad Request response
