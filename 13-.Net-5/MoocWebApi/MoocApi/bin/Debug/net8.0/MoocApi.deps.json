@@ -1,0 +1,72 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MoocApi/1.0.0": {
+        "dependencies": {
+          "IMoocService": "1.0.0",
+          "MoocService": "1.0.0"
+        },
+        "runtime": {
+          "MoocApi.dll": {}
+        }
+      },
+      "IMoocService/1.0.0": {
+        "dependencies": {
+          "MoocModel": "1.0.0"
+        },
+        "runtime": {
+          "IMoocService.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MoocModel/1.0.0": {
+        "runtime": {
+          "MoocModel.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MoocService/1.0.0": {
+        "dependencies": {
+          "IMoocService": "1.0.0"
+        },
+        "runtime": {
+          "MoocService.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MoocApi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IMoocService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MoocModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MoocService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

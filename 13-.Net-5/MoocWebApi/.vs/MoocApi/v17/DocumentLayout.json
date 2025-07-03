@@ -1,0 +1,408 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\13-.Net-5\\MoocWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB42E054-1CD3-4563-A05A-554D6120DCC3}|MoocApi\\MoocApi.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\13-.net-5\\moocwebapi\\moocapi\\moocfilters\\moocresultfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB42E054-1CD3-4563-A05A-554D6120DCC3}|MoocApi\\MoocApi.csproj|solutionrelative:moocapi\\moocfilters\\moocresultfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14013C7B-58FC-4C8D-9CAE-B17C57714FAB}|MoocUserService\\MoocService.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\13-.net-5\\moocwebapi\\moocuserservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14013C7B-58FC-4C8D-9CAE-B17C57714FAB}|MoocUserService\\MoocService.csproj|solutionrelative:moocuserservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB42E054-1CD3-4563-A05A-554D6120DCC3}|MoocApi\\MoocApi.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\13-.net-5\\moocwebapi\\moocapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB42E054-1CD3-4563-A05A-554D6120DCC3}|MoocApi\\MoocApi.csproj|solutionrelative:moocapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02424F38-74B3-4E85-B4F0-3982278E3A40}|MoocModel\\MoocModel.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\13-.net-5\\moocwebapi\\moocmodel\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02424F38-74B3-4E85-B4F0-3982278E3A40}|MoocModel\\MoocModel.csproj|solutionrelative:moocmodel\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB42E054-1CD3-4563-A05A-554D6120DCC3}|MoocApi\\MoocApi.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\13-.net-5\\moocwebapi\\moocapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB42E054-1CD3-4563-A05A-554D6120DCC3}|MoocApi\\MoocApi.csproj|solutionrelative:moocapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14013C7B-58FC-4C8D-9CAE-B17C57714FAB}|MoocUserService\\MoocService.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\13-.net-5\\moocwebapi\\moocuserservice\\loggingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14013C7B-58FC-4C8D-9CAE-B17C57714FAB}|MoocUserService\\MoocService.csproj|solutionrelative:moocuserservice\\loggingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14244830-902B-43E9-A0BC-6748E5B40385}|IMoocService\\IMoocService.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\13-.net-5\\moocwebapi\\imoocservice\\iloggingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14244830-902B-43E9-A0BC-6748E5B40385}|IMoocService\\IMoocService.csproj|solutionrelative:imoocservice\\iloggingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02424F38-74B3-4E85-B4F0-3982278E3A40}|MoocModel\\MoocModel.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\13-.net-5\\moocwebapi\\moocmodel\\apiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02424F38-74B3-4E85-B4F0-3982278E3A40}|MoocModel\\MoocModel.csproj|solutionrelative:moocmodel\\apiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 54,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\13-.Net-5\\MoocWebApi\\MoocModel\\User.cs",
+              "RelativeDocumentMoniker": "MoocModel\\User.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\13-.Net-5\\MoocWebApi\\MoocModel\\User.cs",
+              "RelativeToolTip": "MoocModel\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:32:27.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApiResult.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\13-.Net-5\\MoocWebApi\\MoocModel\\ApiResult.cs",
+              "RelativeDocumentMoniker": "MoocModel\\ApiResult.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\13-.Net-5\\MoocWebApi\\MoocModel\\ApiResult.cs",
+              "RelativeToolTip": "MoocModel\\ApiResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:25:03.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoocResultFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\13-.Net-5\\MoocWebApi\\MoocApi\\MoocFilters\\MoocResultFilter.cs",
+              "RelativeDocumentMoniker": "MoocApi\\MoocFilters\\MoocResultFilter.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\13-.Net-5\\MoocWebApi\\MoocApi\\MoocFilters\\MoocResultFilter.cs",
+              "RelativeToolTip": "MoocApi\\MoocFilters\\MoocResultFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:07:19.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\13-.Net-5\\MoocWebApi\\MoocUserService\\UserService.cs",
+              "RelativeDocumentMoniker": "MoocUserService\\UserService.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\13-.Net-5\\MoocWebApi\\MoocUserService\\UserService.cs",
+              "RelativeToolTip": "MoocUserService\\UserService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:06:49.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\13-.Net-5\\MoocWebApi\\MoocApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MoocApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\13-.Net-5\\MoocWebApi\\MoocApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MoocApi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAIwF4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:39:03.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\13-.Net-5\\MoocWebApi\\MoocApi\\Program.cs",
+              "RelativeDocumentMoniker": "MoocApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\13-.Net-5\\MoocWebApi\\MoocApi\\Program.cs",
+              "RelativeToolTip": "MoocApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T07:27:10.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoggingService.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\13-.Net-5\\MoocWebApi\\MoocUserService\\LoggingService.cs",
+              "RelativeDocumentMoniker": "MoocUserService\\LoggingService.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\13-.Net-5\\MoocWebApi\\MoocUserService\\LoggingService.cs",
+              "RelativeToolTip": "MoocUserService\\LoggingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T07:24:27.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ILoggingService.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\13-.Net-5\\MoocWebApi\\IMoocService\\ILoggingService.cs",
+              "RelativeDocumentMoniker": "IMoocService\\ILoggingService.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\13-.Net-5\\MoocWebApi\\IMoocService\\ILoggingService.cs",
+              "RelativeToolTip": "IMoocService\\ILoggingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T07:25:02.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
