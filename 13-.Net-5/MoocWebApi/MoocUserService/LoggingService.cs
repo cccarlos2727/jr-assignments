@@ -10,6 +10,7 @@ namespace MoocService
     public class LoggingService: ILoggingService
     {
         public List<string> _logs = new List<string>();
+        private readonly Guid _instanceId = Guid.NewGuid();
         public void LogInfo(string message)
         {
             _logs.Add($"INFO: {DateTime.Now}: {message}");
@@ -26,9 +27,7 @@ namespace MoocService
             Console.WriteLine($"INFO: {DateTime.Now}: {message}");
         }
 
-        public List<string> GetLog()
-        {
-            return _logs;
-        }
+        public List<string> GetLog() => _logs;        
+        public Guid GetInstanceId() => _instanceId;
     }
 }

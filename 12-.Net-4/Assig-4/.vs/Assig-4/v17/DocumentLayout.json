@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 523,
-          "SelectedChildIndex": 53,
+          "SelectedChildIndex": 52,
           "Children": [
             {
               "$type": "Bookmark",
@@ -55,10 +55,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
             },
             {
               "$type": "Bookmark",
@@ -236,7 +232,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\12-.Net-4\\Assig-4\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAASwDIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T10:11:07.994Z",
               "EditorCaption": ""

@@ -29,8 +29,5 @@ namespace MoocModel
         [MaxLength(10)]
         public string Password { get; set; }
 
-
-
-
     }
 }

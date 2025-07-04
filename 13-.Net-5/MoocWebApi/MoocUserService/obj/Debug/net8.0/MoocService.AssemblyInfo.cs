@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MoocService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+971f4dfcb12d1cfb8798dcfad4ffec6b7d088ae1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90660a6c17e403291c9fddf7101da06692f5db44")]
 [assembly: System.Reflection.AssemblyProductAttribute("MoocService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MoocService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

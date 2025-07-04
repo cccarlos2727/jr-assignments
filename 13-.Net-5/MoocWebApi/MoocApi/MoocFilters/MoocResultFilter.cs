@@ -17,7 +17,7 @@ namespace MoocApi.MoocFilters
             if (context.Result is ObjectResult objectResult)
             {
                 // 如果已经是我们的统一格式，则添加时间戳
-                if (objectResult.Value is ApiResult<object> apiResult)
+                if (objectResult.Value is ApiResult apiResult)
                 {
                     // 确保 Errors 不为 null
                     apiResult.Errors ??= Array.Empty<object>();
@@ -30,14 +30,12 @@ namespace MoocApi.MoocFilters
                     };
                 }
                 else
-                {
-                    int statusCode = objectResult.StatusCode ?? 200;
-                    bool isSuccess = statusCode < 400;
+                {                   
                     // 如果不是统一格式，转换为统一格式
-                    var newApiResult = new ApiResult<object>
+                    var newApiResult = new ApiResult
                     {
-                        Success = isSuccess ? true: false,
-                        Message = isSuccess? "Operation succeeded": "Operation failed",
+                        Success = true,
+                        Message = "Operation succeeded",
                         Data = new
                         {
                             Timestamp = DateTime.UtcNow,
@@ -47,7 +45,7 @@ namespace MoocApi.MoocFilters
                     };
 
                     objectResult.Value = newApiResult;
-                    objectResult.DeclaredType = typeof(ApiResult<object>);
+                    objectResult.DeclaredType = typeof(ApiResult);
                 }
             }
 

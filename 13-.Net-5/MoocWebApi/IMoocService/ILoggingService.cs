@@ -12,5 +12,7 @@ namespace IMoocService
         public void LogWarning(string message);
         public void LogError(string message);
         public List<string> GetLog();
+
+        public Guid GetInstanceId();
     }
 }

@@ -9,7 +9,7 @@ namespace MoocApi.MoocFilters
         public void OnException(ExceptionContext context)
         {
             // 2. 用 CommonResult 封装错误信息
-            var result = new ApiResult<User>
+            var result = new ApiResult
             {
                 Success = false,
                 Message = "Failed",

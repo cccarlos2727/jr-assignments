@@ -1,6 +1,7 @@
 ﻿using IMoocService;
 using MoocModel;
 using System;
+using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Collections.Immutable;
 using System.Reflection.Metadata.Ecma335;
@@ -10,7 +11,7 @@ namespace MoocUserService
     public class UserService : IUserService
     {
 
-        private static readonly List<User>  _users = new List<User>();
+        private static readonly List<User> _users = new List<User>();
         private static int _incrementId = 0;
         public bool AddUser(User user)
         {
@@ -24,9 +25,9 @@ namespace MoocUserService
             User findUser = null;
             foreach (var item in _users)
             {
-                if (item.Id==id)
+                if (item.Id == id)
                 {
-                    findUser = item;    
+                    findUser = item;
                 }
             }
 
@@ -37,12 +38,18 @@ namespace MoocUserService
 
             _users.Remove(findUser);
 
-            return true;    
+            return true;
         }
 
         public User GetUserById(int id)
         {
             User findUser = null;
+            Console.WriteLine($"Looking for user with ID:{id}");
+            Console.WriteLine($"Number of User in the list: {_users.Count}");
+            foreach (var user in _users)
+            {
+                Console.WriteLine($"User in list: id={user.Id}, Name:{user.UserName}");
+            }
             foreach (var item in _users)
             {
                 if (item.Id == id)
@@ -79,9 +86,9 @@ namespace MoocUserService
                 return false;
             }
 
-            findUser.UserName = user.UserName;  
-            findUser.Email = user.Email;  
-            findUser.Phone = user.Phone;  
+            findUser.UserName = user.UserName;
+            findUser.Email = user.Email;
+            findUser.Phone = user.Phone;
             findUser.Adddress = user.Adddress;
             findUser.Password = user.Password;
             return true;

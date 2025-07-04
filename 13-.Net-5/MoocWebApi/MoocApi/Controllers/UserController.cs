@@ -26,21 +26,21 @@ namespace MoocApi.Controllers
 
         [TypeFilter(typeof(MoocActionFilter), Arguments = new object[] { true })]
         [HttpGet()]
-        public ApiResult<User> Get(int id)
+        public async Task<ApiResult> Get(int id)
         {
             var user = _userService.GetUserById(id);
             if (user == null) { 
-                _loggingService.LogWarning($"User with {id} does not exist");
-                return new ApiResult<User> { Success = false, Data = null, Message = "no users" };
+                _loggingService.LogWarning($"User with Id:{id} does not exist");
+                return await Task.FromResult(new ApiResult { Success = false, Data = null, Message = "no users" });
             }
             else { 
-                _loggingService.LogInfo($"User with {id} got successfully");
-                return new ApiResult<User> { Success = true, Data = user, Message = "success" };
+                _loggingService.LogInfo($"User with Id:{id} received successfully");
+                return await Task.FromResult(new ApiResult { Success = true, Data = user, Message = "success" });
             }
         }
 
         [HttpPost]
-        public ApiResult<User> Add(User user)
+        public async Task<ApiResult<User, string[]>> Add(User user)
         {
             if (!ModelState.IsValid)
             {
@@ -59,22 +59,22 @@ namespace MoocApi.Controllers
                     }
                 }
 
-                return new ApiResult<User>
+                return await Task.FromResult(new ApiResult<User, string[]>
                 {
                     Success = false,
                     Errors = errorList.ToArray(),
-                };
+                });
 
             }
 
             var isSuccess = _userService.AddUser(user);
             _loggingService.LogInfo($"{user.UserName} is successfully added to the database");
 
-            return new ApiResult<User> { Success = isSuccess, Data = user, Message = isSuccess ? "success" : "false" };
+            return await Task.FromResult(new ApiResult<User, string[]> { Success = isSuccess, Data = user, Message = isSuccess ? "success" : "false" });
         }
 
         [HttpPut]
-        public ApiResult<User> Update(User user)
+        public async Task<ApiResult> Update(User user)
         {
             if (!ModelState.IsValid)
             {
@@ -92,57 +92,57 @@ namespace MoocApi.Controllers
                     }
                 }
 
-                return new ApiResult<User>
+                return await Task.FromResult (new ApiResult
                 {
                     Success = false,
                     Errors = errorList.ToArray(),
-                };
+                });
 
             }
 
             var isSuccess = _userService.UpdateUser(user);
             _loggingService.LogInfo($"{user.UserName} info is successfully updated");
 
-            return new ApiResult<User> { Success = isSuccess, Data = user, Message = isSuccess ? "success" : "false" };
+            return await Task.FromResult(new ApiResult { Success = isSuccess, Data = user, Message = isSuccess ? "success" : "false" });
         }
 
         [HttpDelete("{id}")]
-        public ApiResult<User> Delete(int id)
+        public async Task<ApiResult> Delete(int id)
         {
             var user = _userService.GetUserById(id);
             if (user == null)
             {
                 _loggingService.LogWarning("User Id can not be null");
-                return new ApiResult<User> { Success = false, Data = null, Message = "no users" };
+                return await Task.FromResult(new ApiResult { Success = false, Data = null, Message = "no users" });
             }                
             else
             {
                 _loggingService.LogInfo($"User with id {id} is deleted from the database");
                 var isSuccess = _userService.DeleteUser(id);
-                return new ApiResult<User> { Success = true, Data = user, Message = "success" };
+                return await Task.FromResult( new ApiResult { Success = true, Data = user, Message = "success" });
             }
 
         }
 
         [HttpGet("Getall")]
-        public ApiResult<User> GetAll()
+        public async Task<ApiResult> GetAll()
         {
             //throw new NotImplementedException("this is for the global error handling");
 
-            return new ApiResult<User> { Success = true, Data = null, Message = true ? "success" : "false" };
+            return await Task.FromResult(new ApiResult { Success = true, Data = null, Message = true ? "success" : "false" });
           
         }
 
         [HttpGet("test")]
-        public IActionResult Test(int id)
+        public async Task<IActionResult> Test(int id)
         {
-            return Ok(new { id });
+            return await Task.FromResult(Ok(new { id }));
         }
 
         [HttpGet("log")]
-        public List<string> GetLogRecord()
+        public async Task<List<string>> GetLogRecord()
         {
-            return _loggingService.GetLog();
+            return await Task.FromResult(_loggingService.GetLog());
         }
 
     }

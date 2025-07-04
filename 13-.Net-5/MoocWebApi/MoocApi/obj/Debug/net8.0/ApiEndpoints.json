@@ -15,7 +15,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "MoocModel.ApiResult\u00601[[MoocModel.User, MoocModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "MoocModel.ApiResult",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -41,7 +41,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "MoocModel.ApiResult\u00601[[MoocModel.User, MoocModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "MoocModel.ApiResult\u00602[[MoocModel.User, MoocModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.String[], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -67,7 +67,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "MoocModel.ApiResult\u00601[[MoocModel.User, MoocModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "MoocModel.ApiResult",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -93,7 +93,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "MoocModel.ApiResult\u00601[[MoocModel.User, MoocModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "MoocModel.ApiResult",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -113,7 +113,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "MoocModel.ApiResult\u00601[[MoocModel.User, MoocModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "MoocModel.ApiResult",
         "MediaTypes": [
           "text/plain",
           "application/json",
