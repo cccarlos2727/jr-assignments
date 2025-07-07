@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IMoocService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90660a6c17e403291c9fddf7101da06692f5db44")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d1688042f9db82b31da7a68944ba03d08a2dd2a")]
 [assembly: System.Reflection.AssemblyProductAttribute("IMoocService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IMoocService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

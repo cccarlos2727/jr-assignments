@@ -6,8 +6,7 @@ namespace MoocApi.MiddleWares
     public class RequestLoggingMiddleware
     {
         private readonly RequestDelegate _next;
-        public RequestLoggingMiddleware(
-       RequestDelegate next)
+        public RequestLoggingMiddleware(RequestDelegate next)
         {
             _next = next;
         }
