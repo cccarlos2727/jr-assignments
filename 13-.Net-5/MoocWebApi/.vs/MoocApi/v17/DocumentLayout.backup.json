@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\13-.Net-5\\MoocWebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB42E054-1CD3-4563-A05A-554D6120DCC3}|MoocApi\\MoocApi.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\13-.net-5\\moocwebapi\\moocapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB42E054-1CD3-4563-A05A-554D6120DCC3}|MoocApi\\MoocApi.csproj|solutionrelative:moocapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EB42E054-1CD3-4563-A05A-554D6120DCC3}|MoocApi\\MoocApi.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\13-.net-5\\moocwebapi\\moocapi\\controllers\\userservicedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB42E054-1CD3-4563-A05A-554D6120DCC3}|MoocApi\\MoocApi.csproj|solutionrelative:moocapi\\controllers\\userservicedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB42E054-1CD3-4563-A05A-554D6120DCC3}|MoocApi\\MoocApi.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\13-.net-5\\moocwebapi\\moocapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EB42E054-1CD3-4563-A05A-554D6120DCC3}|MoocApi\\MoocApi.csproj|solutionrelative:moocapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{EB42E054-1CD3-4563-A05A-554D6120DCC3}|MoocApi\\MoocApi.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\13-.net-5\\moocwebapi\\moocapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB42E054-1CD3-4563-A05A-554D6120DCC3}|MoocApi\\MoocApi.csproj|solutionrelative:moocapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB42E054-1CD3-4563-A05A-554D6120DCC3}|MoocApi\\MoocApi.csproj|c:\\users\\carlos\\documents\\github\\jr-assignments\\13-.net-5\\moocwebapi\\moocapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB42E054-1CD3-4563-A05A-554D6120DCC3}|MoocApi\\MoocApi.csproj|solutionrelative:moocapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 53,
+          "SelectedChildIndex": 54,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\13-.Net-5\\MoocWebApi\\MoocApi\\Program.cs",
+              "RelativeDocumentMoniker": "MoocApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\13-.Net-5\\MoocWebApi\\MoocApi\\Program.cs",
+              "RelativeToolTip": "MoocApi\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T11:05:54.6Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -234,39 +247,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\13-.Net-5\\MoocWebApi\\MoocApi\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "MoocApi\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\13-.Net-5\\MoocWebApi\\MoocApi\\appsettings.Development.json",
-              "RelativeToolTip": "MoocApi\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\13-.Net-5\\MoocWebApi\\MoocApi\\appsettings.json",
+              "RelativeDocumentMoniker": "MoocApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\13-.Net-5\\MoocWebApi\\MoocApi\\appsettings.json",
+              "RelativeToolTip": "MoocApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-07T11:09:17.323Z",
+              "WhenOpened": "2025-07-07T11:33:48.192Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\13-.Net-5\\MoocWebApi\\MoocApi\\Program.cs",
-              "RelativeDocumentMoniker": "MoocApi\\Program.cs",
-              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\13-.Net-5\\MoocWebApi\\MoocApi\\Program.cs",
-              "RelativeToolTip": "MoocApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T11:05:54.6Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "UserServiceDB.cs",
               "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\13-.Net-5\\MoocWebApi\\MoocApi\\Controllers\\UserServiceDB.cs",
               "RelativeDocumentMoniker": "MoocApi\\Controllers\\UserServiceDB.cs",
               "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\jr-assignments\\13-.Net-5\\MoocWebApi\\MoocApi\\Controllers\\UserServiceDB.cs",
               "RelativeToolTip": "MoocApi\\Controllers\\UserServiceDB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-07T10:52:43.544Z",
               "EditorCaption": ""

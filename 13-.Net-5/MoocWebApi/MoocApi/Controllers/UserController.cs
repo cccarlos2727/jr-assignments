@@ -1,11 +1,7 @@
 ﻿using IMoocService;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using MoocApi.MoocFilters;
 using MoocModel;
-using System.Runtime.CompilerServices;
-using System.Text;
 
 namespace MoocApi.Controllers
 {
