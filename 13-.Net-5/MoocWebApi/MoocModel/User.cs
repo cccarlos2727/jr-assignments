@@ -22,7 +22,7 @@ namespace MoocModel
 
         public GenderEnum Gender { get; set; }
 
-        [Range(10,50,ErrorMessage ="Characters are not in range of 10 to 50")]
+        [StringLength(50, MinimumLength = 10, ErrorMessage = "Address must be between 10 and 50 characters")]
         public string? Address { get; set; }
 
         [Required]

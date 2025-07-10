@@ -1,4 +1,5 @@
 ﻿using Google.Protobuf.WellKnownTypes;
+using IMoocService;
 using MoocModel;
 using MySql.Data.MySqlClient;
 using System.Data;
@@ -7,7 +8,7 @@ using System.Security.Cryptography.Xml;
 
 namespace MoocApi.Controllers
 {
-    public class UserServiceDB
+    public class UserServiceDB : IUserServiceDB
     {
         private readonly string _connectionString;
 
@@ -60,7 +61,18 @@ namespace MoocApi.Controllers
                 string databaseName = "moocdb";
                 string tableName = "user";
 
-                string sql = $"UPDATE {databaseName}.`{tableName}` SET UserName = @username, Email = @email, Phone = @phone, Gender = @gender, Address = @address, Password = @password WHERE Id = @id";
+                string sql = $"UPDATE {databaseName}.`{tableName}` SET UserName = @username, " +
+                    $"Email = @email, " + $"Phone = @phone, Gender = @gender, Address = @address, " +
+                    $"Password = @password " + $"WHERE Id = @id";
+
+                #region Debug
+                Console.WriteLine($"=== UPDATE USER DEBUG ===");
+                Console.WriteLine($"SQL: {sql}");
+                Console.WriteLine($"User ID: {user.Id}");
+                Console.WriteLine($"UserName: {user.UserName}");
+                Console.WriteLine($"Email: {user.Email}");
+                #endregion
+
                 using var command = new MySqlCommand(sql, connection);
 
                 command.Parameters.AddWithValue("@username", user.UserName);
@@ -71,12 +83,17 @@ namespace MoocApi.Controllers
                 command.Parameters.AddWithValue("@password", user.Password);
                 command.Parameters.AddWithValue("@id", user.Id);
 
+                Console.WriteLine($"About to execute UPDATE..."); //Debug
                 int rowsAffected = command.ExecuteNonQuery();
+                Console.WriteLine($"Numer of rows affected: {rowsAffected}");
+                Console.WriteLine($"=== END DEBUG ==="); //Debug
+
                 return rowsAffected > 0;
 
             }
             catch (Exception ex)
             {
+                Console.WriteLine("Enter Catch Clause");
                 Console.WriteLine($"Error updating User: {ex.Message}");
                 return false;
             }
@@ -139,13 +156,58 @@ namespace MoocApi.Controllers
                     };
                     users.Add(user);
                 }
-
             }
             catch (Exception ex)
             {
                 Console.WriteLine($"Error retrieving users: {ex.Message}");
             }
             return users;
+        }
+
+        public User GetUserById(int id)
+        {
+            try
+            {
+                using var connection = new MySqlConnection(_connectionString);
+                connection.Open();
+
+                string databaseName = "moocdb";
+                string tableName = "user";
+
+                string sql = $"SELECT Id, UserName, Email, Phone, Gender, Address, Password FROM {databaseName}.`{tableName}` WHERE Id = @id";                
+                using var command = new MySqlCommand(sql, connection);
+                command.Parameters.AddWithValue("@id", id);
+
+                using var reader = command.ExecuteReader();
+
+                if (reader.Read())
+                {
+                    
+                    var user = new User
+                    {
+                        Id = reader.GetInt32("Id"),
+                        UserName = reader.GetString("UserName"),
+                        Email = reader.GetString("Email"),
+                        Phone = reader.GetString("Phone"),
+                        Gender = (GenderEnum)reader.GetInt32("Gender"),
+                        Address = reader.GetString("Address"),
+                        Password = reader.GetString("Password")
+                    };
+                    #region Debug
+                    Console.WriteLine($"Debug 1: User data {user}");
+                    #endregion
+
+                    return user;
+
+                }
+                return null;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error with the UserID: {ex.Message}");
+                return null;
+            }
+
         }
 
         public List<User> GetAllUserWithDataReader()
@@ -187,6 +249,8 @@ namespace MoocApi.Controllers
             return users;
         }
 
+
+
         public List<User> GetAllUsersWithDataAdapter()
         {
             List<User> users = new List<User>();
@@ -197,11 +261,21 @@ namespace MoocApi.Controllers
             {
                 using var connection = new MySqlConnection(_connectionString);
 
-                string sql = $"SELECT * FROM {databaseName}.`{tableName}` WHERE 1 = @parm";
+                string sql = $"SELECT * FROM {databaseName}.`{tableName}` WHERE 1 = @param";
                 using var command = new MySqlCommand(sql, connection);
+                
+                #region Debug
+                Console.WriteLine($"Debug1: {command}");
+                #endregion
+                
                 command.Parameters.AddWithValue("@param", 1);
 
                 using var adapter = new MySqlDataAdapter(command);
+
+                #region Debug
+                Console.WriteLine($"Debug2: {adapter}");
+                #endregion
+
                 DataTable dataTable = new DataTable();
                 adapter.Fill(dataTable);
 
@@ -217,14 +291,20 @@ namespace MoocApi.Controllers
                         Address = row["Address"].ToString(),
                         Password = row["Password"].ToString()
                     };
+                    #region Debug
+                    Console.WriteLine($"Debug3: {user}");
+                    #endregion
+
                     users.Add(user);
                 }
+                #region Debug
+                Console.WriteLine("Service Script: Users retreived successfully");
+                #endregion
             }
             catch (Exception ex)
             {
                 Console.WriteLine($"Error retrieving users: {ex.Message}");
             }
-
             return users;
         }
 

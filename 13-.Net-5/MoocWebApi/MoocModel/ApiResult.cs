@@ -14,11 +14,11 @@ namespace MoocModel
         public object[] Errors { get; set; }
     }
 
-    public class ApiResult<T, E>
+    public class ApiResult<T>
     {
         public bool Success { get; set; }
         public string Message { get; set; }
         public T? Data { get; set; }
-        public E? Errors { get; set; }
+        public List<string>? Errors { get; set; } = new();
     }
 }

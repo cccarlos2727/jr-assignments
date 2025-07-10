@@ -25,27 +25,13 @@ namespace MoocApi
                 options.Filters.Add<MoocResultFilter>();
             });
 
-            builder.Services.AddSingleton<IUserService, UserService>();
+            builder.Services.AddScoped<IUserService, UserService>();
+            builder.Services.AddScoped<IUserServiceDB, UserServiceDB>();
             builder.Services.AddTransient<IVerificationCodeService, VerificationCodeService>();
             builder.Services.AddSingleton<ILoggingService, LoggingService>();
-            builder.Services.AddScoped<UserServiceDB>();
+            
 
             var app = builder.Build();
-
-            //try
-            //{
-            //    var connectionString = app.Configuration.GetConnectionString("DefaultConnection");
-            //    Console.WriteLine($"Connection String: {connectionString}");
-
-            //    using var connection = new MySqlConnection(connectionString);
-            //    connection.Open();
-            //    Console.WriteLine("Connection Successful!");
-            //    connection.Close();
-            //}
-            //catch (Exception ex)
-            //{
-            //    Console.WriteLine($"Failed to Connect: {ex.Message}");
-            //}
 
             // 添加自定义中间件
             app.UseMiddleware<RequestLoggingMiddleware>();

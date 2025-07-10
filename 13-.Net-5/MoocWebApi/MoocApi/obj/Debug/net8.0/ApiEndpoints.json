@@ -41,7 +41,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "MoocModel.ApiResult\u00602[[MoocModel.User, MoocModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.String[], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "Type": "MoocModel.ApiResult\u00601[[MoocModel.User, MoocModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -105,6 +105,58 @@
   },
   {
     "ContainingType": "MoocApi.Controllers.UserController",
+    "Method": "AddUserDB",
+    "RelativePath": "api/User/AddUserDB",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "MoocModel.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MoocModel.ApiResult\u00601[[MoocModel.User, MoocModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MoocApi.Controllers.UserController",
+    "Method": "DeleteUserDB",
+    "RelativePath": "api/User/DeleteUserDB/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MoocModel.ApiResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MoocApi.Controllers.UserController",
     "Method": "GetAll",
     "RelativePath": "api/User/Getall",
     "HttpMethod": "GET",
@@ -114,6 +166,52 @@
     "ReturnTypes": [
       {
         "Type": "MoocModel.ApiResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MoocApi.Controllers.UserController",
+    "Method": "GetAllUserDB",
+    "RelativePath": "api/User/GetAllDB",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "MoocModel.ApiResult\u00601[[System.Collections.Generic.List\u00601[[MoocModel.User, MoocModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MoocApi.Controllers.UserController",
+    "Method": "GetUserByIdDB",
+    "RelativePath": "api/User/GetUserByIdDB/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MoocModel.ApiResult\u00601[[MoocModel.User, MoocModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -158,5 +256,36 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MoocApi.Controllers.UserController",
+    "Method": "UpdateUserDB",
+    "RelativePath": "api/User/UpdateUserDB/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "user",
+        "Type": "MoocModel.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MoocModel.ApiResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   }
 ]

@@ -89,7 +89,7 @@ namespace MoocUserService
             findUser.UserName = user.UserName;
             findUser.Email = user.Email;
             findUser.Phone = user.Phone;
-            findUser.Adddress = user.Adddress;
+            findUser.Address = user.Address;
             findUser.Password = user.Password;
             return true;
         }
